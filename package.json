@@ -10,7 +10,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "homepages" : "https://jonathamfleming.github.io/test"
+    "homepage" : "https://jonathanmfleming.github.io/test/"
   },
   "scripts": {
     "start": "react-scripts start",
